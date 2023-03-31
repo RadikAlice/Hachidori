@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
+   sodipodi:docname="Logo-Hachidori.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <title
+     id="title380">Hachidori Logo</title>
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="true"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="0.2102413"
+     inkscape:cx="382.89337"
+     inkscape:cy="561.25984"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2" />
+  <g
+     inkscape:label="Logo"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <text
+       xml:space="preserve"
+       style="font-weight:bold;font-size:38.1px;line-height:1.25;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Bold';font-variant-ligatures:none;display:none;stroke-width:0.264583"
+       x="21.394066"
+       y="62.923725"
+       id="text186"
+       inkscape:label="Hachidori, full length kata"
+       sodipodi:insensitive="true"><tspan
+         sodipodi:role="line"
+         id="tspan184"
+         style="font-size:38.1px;stroke-width:0.264583"
+         x="21.394066"
+         y="62.923725">ハチドリ</tspan></text>
+    <g
+       aria-label="ハチドリ"
+       id="text352"
+       style="font-weight:bold;font-size:38.1px;line-height:1.25;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Bold';font-variant-ligatures:none;stroke-width:0.264583"
+       inkscape:label="Hachidori, full length kata"
+       transform="translate(11.085299,-2.1853005)">
+      <path
+         d="M 53.54094,60.840131 Q 49.820237,49.08271 43.867112,42.087788 l 3.12539,-2.381249 q 7.441406,9.376171 10.566797,19.794139 z M 35.681565,43.129585 q 1.190625,0.744141 -0.297656,1.339453 -2.678906,9.376172 -8.632031,17.115234 L 23.328831,59.35185 q 6.548438,-7.88789 8.780859,-17.859374 z"
+         id="path354" />
+      <path
+         d="m 81.520626,46.254976 h 12.203906 v 3.274218 H 81.520626 q 0,10.417969 -9.376172,15.626953 l -2.381249,-2.38125 q 8.483202,-4.7625 8.334374,-13.245703 H 63.214767 v -3.274218 h 14.882812 v -5.655469 q -4.167187,0.446485 -10.864452,0.744141 l -1.339454,-3.125391 q 14.436328,-0.297656 22.17539,-2.678906 l 1.637109,3.125391 q 0.446485,1.041797 -1.339453,0.297656 -3.12539,0.744141 -6.846093,1.190625 z"
+         id="path356" />
+      <path
+         d="m 128.10383,54.142866 q -7.88789,-4.018359 -12.94805,-5.357812 v 15.478124 h -3.42305 V 34.497554 h 2.97657 q 1.78593,0.148829 0.44648,1.190625 v 9.376172 q 7.29258,2.083594 14.73398,5.655468 z m -0.29766,-13.096874 q -2.53008,-3.125391 -5.06016,-5.060156 l 1.93477,-1.488282 q 2.53008,1.934766 5.06016,5.060156 z m 3.57188,-2.827735 q -1.93477,-2.530078 -4.91133,-4.911328 l 1.93476,-1.488281 q 2.53008,1.785938 4.91133,4.911328 z"
+         id="path358" />
+      <path
+         d="m 163.9714,49.826851 q 0,11.162109 -10.41796,16.073437 l -2.97657,-2.530079 q 9.82266,-4.464843 9.97149,-13.692186 V 34.795211 h 3.12539 q 1.48828,0.297656 0.29765,1.190625 z m -15.32929,3.274218 h -3.42305 V 36.283492 h 3.27422 q 1.48828,0.148828 0.14883,1.190625 z"
+         id="path360" />
+    </g>
+  </g>
+  <metadata
+     id="metadata363">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>RadikAlice</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:title>Hachidori Logo</dc:title>
+        <dc:description>Logo for the Hachidori games</dc:description>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+</svg>
